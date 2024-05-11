@@ -1,1 +1,2 @@
 # E-Com-Website
+# Welcome to Shopppsy, your go-to destination for all things shopping! Our E-commerce website is powered by HTML, CSS, and JavaScript to provide you with a seamless and enjoyable shopping experience. Explore our vast selection of Clothes With our responsive design, you can shop anytime, anywhere, on any device. Our user-friendly interface ensures smooth navigation and hassle-free checkout, so you can shop with confidence.
